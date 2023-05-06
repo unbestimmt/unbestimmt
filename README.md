@@ -16,14 +16,12 @@
   </a>
 </div>
 
-<br>
+<h2> </h2>
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div>
-  
-<br>
 
 <h2> </h2>
 
