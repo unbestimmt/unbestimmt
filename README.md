@@ -10,7 +10,7 @@
 <img src="https://media.giphy.com/media/QB58ZP0duR41RYH4Lk/giphy.gif" width="30"/> I have a background in Veterinary Medicine and Graphic Design.<br>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVldXBkbjdiaWJ1emg4eDg4NG0yN3U4dGJtdTQwNmk3aDh2aTRkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1xOPeoGeRWn5JIpuIm/giphy.gif" width="30"> I am interested especially in Data Science, Risk Analysis, Epidemiology, Animal Welfare & Behaviour, and Food Safety.<br>
 <img src="https://media.giphy.com/media/M0XX5oAZq4L4tmLpTt/giphy.gif" width="30"/> And I love all things cats.<br>
-
+<img src="https://media1.giphy.com/media/NbEIzMApvUs1I8mSkf/giphy.gif?cid=ecf05e47qvlvpbsyh2f57mw3ynz2k8nt42zmkspap24opwzv&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="30">
 <br>
 
 <div id="linkedin" align="center">
