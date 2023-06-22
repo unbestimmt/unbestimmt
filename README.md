@@ -2,6 +2,8 @@
   <img src="https://i.ibb.co/MgZs7mw/gitbanner.jpg"/>
 </div>
 
+<br>
+
 <h2>Hi there 👋 I'm Dani</h2>
 
 <br>
